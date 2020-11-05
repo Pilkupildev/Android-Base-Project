@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity implements MainContract.View
     @Override
     public void initView() {
         btnLogin.setOnClickListener(v -> {
+            ActivityUtils.hideKeyboard(this);
             String email = etEmail.getText().toString();
             String password = etPassword.getText().toString();
             presenter.doLogin(email, password);
