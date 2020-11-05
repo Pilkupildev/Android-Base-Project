@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafii
+  ~ Thursday,6/11/2020
+  ~ Copyright (c) 2020 All Rights Reserved.
+  -->
+
+<resources>
+    <dimen name="size_26dp">26dp</dimen>
+    <dimen name="size_104dp">104dp</dimen>
+    <dimen name="size_20sp">20sp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_12dp">12dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBaseProject</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="another_activity">Another Activity</string>
+</resources>
